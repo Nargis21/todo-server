@@ -1,34 +1,82 @@
 [
     {
-        "_id": "1",
-        "status": "pending",
+        "_id": "60b8d295f1d2b431b8d4e60e",
+        "isComplete": false,
         "title": "Complete project documentation",
         "description": "Finish the documentation for the new project",
         "dateTime": "2024-07-10T10:00:00Z",
-        "priority": "high"
+        "priority": "High"
     },
     {
-        "_id": "2",
-        "status": "pending",
+        "_id": "60b8d295f1d2b431b8d4e60f",
+        "isComplete": false,
         "title": "Fix bugs in user interface",
         "description": "Address the reported UI bugs",
         "dateTime": "2024-07-11T15:00:00Z",
-        "priority": "medium"
+        "priority": "Medium"
     },
     {
-        "_id": "3",
-        "status": "finished",
+        "_id": "60b8d295f1d2b431b8d4e610",
+        "isComplete": true,
         "title": "Update website content",
         "description": "Refresh the content on the main website",
         "dateTime": "2024-07-12T09:00:00Z",
-        "priority": "low"
+        "priority": "Low"
     },
     {
-        "_id": "4",
-        "status": "pending",
+        "_id": "60b8d295f1d2b431b8d4e611",
+        "isComplete": false,
         "title": "Prepare for team meeting",
         "description": "Organize agenda and materials for the upcoming team meeting",
         "dateTime": "2024-07-13T11:00:00Z",
-        "priority": "high"
+        "priority": "High"
+    },
+    {
+        "_id": "60b8d295f1d2b431b8d4e612",
+        "isComplete": true,
+        "title": "Research new technologies",
+        "description": "Look into emerging technologies and their potential use",
+        "dateTime": "2024-07-14T13:00:00Z",
+        "priority": "Medium"
+    },
+    {
+        "_id": "60b8d295f1d2b431b8d4e613",
+        "isComplete": false,
+        "title": "Conduct user interviews",
+        "description": "Gather feedback from users about the new features",
+        "dateTime": "2024-07-15T09:00:00Z",
+        "priority": "High"
+    },
+    {
+        "_id": "60b8d295f1d2b431b8d4e614",
+        "isComplete": true,
+        "title": "Analyze sales data",
+        "description": "Evaluate sales data for the last quarter",
+        "dateTime": "2024-07-16T10:30:00Z",
+        "priority": "Low"
+    },
+    {
+        "_id": "60b8d295f1d2b431b8d4e615",
+        "isComplete": false,
+        "title": "Develop marketing strategy",
+        "description": "Create a marketing strategy for the upcoming product launch",
+        "dateTime": "2024-07-17T14:00:00Z",
+        "priority": "High"
+    },
+    {
+        "_id": "60b8d295f1d2b431b8d4e616",
+        "isComplete": true,
+        "title": "Review team performance",
+        "description": "Evaluate the team's performance over the last month",
+        "dateTime": "2024-07-18T11:00:00Z",
+        "priority": "Medium"
+    },
+    {
+        "_id": "60b8d295f1d2b431b8d4e617",
+        "isComplete": false,
+        "title": "Plan next sprint",
+        "description": "Outline the tasks and goals for the next sprint cycle",
+        "dateTime": "2024-07-19T15:00:00Z",
+        "priority": "High"
     }
 ]
